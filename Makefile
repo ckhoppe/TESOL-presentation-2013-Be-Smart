@@ -3,7 +3,7 @@ author = "Cara Kruse Hoppe"
 target = "tesol_pres"
 
 markdown_file = $(target).md
-output_file   = $(target).html
+output_file   = index.html
 
 python_exec    = python
 md2reveal_exec = md2reveal/md2reveal.py
@@ -11,7 +11,7 @@ cmd_exec = $(python_exec) $(md2reveal_exec)
 
 args = --html_title $(title) --html_author $(author) 
 all:
-	$(cmd_exec) $(markdown_file) $(args)
+	$(cmd_exec) $(markdown_file) $(args) --output $(output_file)
 
 edit:
 	emacs $(markdown_file) &
