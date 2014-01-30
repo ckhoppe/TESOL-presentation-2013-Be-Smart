@@ -1,5 +1,4 @@
-Slides for TESOL 2013, Be Smart: Using Multimedia & Common Core State Standards
+## TESOL 2013
+### [Be Smart: Using Multimedia & Common Core State Standards](http://ckhoppe.github.io/TESOL-presentation-2013-Be-Smart/index.html)
 ============================
 Cara Kruse Hoppe
-
-(slide link)[http://ckhoppe.github.io/TESOL-presentation-2013-Be-Smart/index.html]
