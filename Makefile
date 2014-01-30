@@ -1,6 +1,6 @@
 title  = "TSOL Presentation"
 author = "Cara Kruse Hoppe"
-target = "tesol_pres.md"
+target = "tesol_pres"
 
 markdown_file = $(target).md
 output_file   = $(target).html
